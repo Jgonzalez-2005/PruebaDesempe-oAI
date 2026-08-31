@@ -21,6 +21,9 @@ frontend/.vite/
 # Logs
 *.log
 
+# Vercel
+.vercel/
+
 # OS
 .DS_Store
 Thumbs.db
